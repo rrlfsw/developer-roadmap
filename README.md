@@ -56,7 +56,7 @@
 
 ## 🙌 기여하기
 
-> 로드맵을 업데이트하는 방법은 [기여 문서](./contributing.md)를 살펴보세요.
+> 로드맵을 업데이트하는 방법은 [기여 문서](./CONTRIBUTING.md)를 살펴보세요.
 
 - 개선사항은 pull request
 - 논의사항은 issues
@@ -65,4 +65,4 @@
 
 ## 라이센스
 
-Have a look at the [license file](./license.md) for details
+Have a look at the [license file](./LICENSE) for details
